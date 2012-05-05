@@ -36,7 +36,7 @@ WhoisMind.com is a web leading WHOIS service provider. We give public informatio
 
 1. WhoisMind web form to screenshot-1.png.
 1. WhoisMind widget on the sidebar to screenshot-1.png
-1. WhoisMind.com logo on whoismind-bulb.png
+1. WhoisMind.com logo on icon.png
 
 == Changelog ==
 
